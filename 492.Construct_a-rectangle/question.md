@@ -30,7 +30,8 @@ Example 3:
 Input: area = 122122
 Output: [427,286]
  ```
-
+```
 Constraints:
 
 1 <= area <= 107
+```
